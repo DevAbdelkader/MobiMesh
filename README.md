@@ -1,11 +1,14 @@
 
 # Three JS AI Auto Steering
 
-I LOVE **mathematics*** and ***programming***, so I decided to create a project based on both of them.
+I LOVE ***mathematics*** and ***programming***, so I decided to create a project based on both of them.
+
 
 Auto steering for relastic models wander behaviour[^1][^2] with [Three.JS](https://threejs.org "Three JS Official website") library that uses [WebGL API](https://www.khronos.org/api/webgl). This artificial intelligence depends on *mathematics*, *geometry*, and some *algorithms*.
 
+
 ---
+
 
 # Project Contents
 
