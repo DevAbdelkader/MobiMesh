@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@types/dat.gui": "^0.7.13",
     "three": "^0.165.0"
   },
   "devDependencies": {
@@ -9,6 +10,6 @@
   },
   "scripts": {
     "build": "./node_modules/.bin/webpack",
-    "dev": "./node_modules/.bin/webpack"
+    "dev": "./node_modules/.bin/webpack serve"
   }
 }
